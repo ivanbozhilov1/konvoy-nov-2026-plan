@@ -167,5 +167,5 @@ body{margin:0;background:#0b0d10;padding:24px 16px;display:flex;flex-direction:c
 
 </section>
 </div></div>
-<script>const ro=new ResizeObserver(es=>es.forEach(e=>e.target.firstElementChild.style.transform='scale('+e.target.clientWidth/1920+')'));document.querySelectorAll('.frame').forEach(f=>ro.observe(f));</script>
+<script>function fit(){document.querySelectorAll('.frame').forEach(f=>{if(f.clientWidth)f.firstElementChild.style.transform='scale('+f.clientWidth/1920+')'})}fit();addEventListener('load',fit);addEventListener('resize',fit);document.fonts&&document.fonts.ready.then(fit);if(window.ResizeObserver){const ro=new ResizeObserver(fit);document.querySelectorAll('.frame').forEach(f=>ro.observe(f))}</script>
 </body></html>
