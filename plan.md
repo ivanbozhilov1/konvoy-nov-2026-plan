@@ -7,6 +7,7 @@
 - **[DIR]** `tmp/konvoy-resolution-20261029/REPORT.md` + `final-invites.json` / `final-partners.json` / `final-review.json` (Sheet snapshot, checked 29 Oct 2026). System of record: the Google Sheet tabs "15 Directory Review" and "19 Resolution Log" (read-only).
 - **[CEO]** `plans/ceo-branding-plan.md`
 - **[SOC]** `docs/all-social-channel-status.md`
+- **[WEB]** Desk research, 1 Nov 2026: tribune.net.ph/2023/12/15/where-business-leisure-meet (NUSTAR ballroom capacity); gmanetwork.com Sofronio Vasquez Cebu concert tiers (Jan 2025) and A1 Waterfront Cebu tiers (Oct 2026); philstar.com/the-freeman 2020 "Cebu boxing 2020"; facebook.com/urccph (follower snapshot)
 
 **Hard rule:** nothing publishes, sends, or goes to a directory contact without owner approval. The release status is "Approved to Publish" in the Content Calendar [PB §8]. This plan contains no personal contact details: counts and organisation names only.
 
@@ -26,20 +27,50 @@
 
 Pace = sold so far ÷ target curve. Below 0.9 at a review triggers the playbook levers within 48 h [PB §1].
 
+### Proposed targets: Cebu reality check (approve or change Tuesday)
+
+**What we know** [WEB = desk research 1 Nov 2026]:
+- **Room:** NUSTAR Grand Ballroom seats 1,760 banquet / up to 3,290 theater (Daily Tribune, Dec 2023). A cage and production take floor space, so the fight-layout capacity is [confirm with NUSTAR]. Planning assumption: **1,500 seats**.
+- **Prices:** Cebu hotel/casino ballroom shows price PHP 1,000–5,000 per tier (2025–26 concerts) [WEB].
+- **Market:** no published attendance for any Cebu combat card in 2022–26. A 2020 column calls Cebu boxing "on the downtrend" since 2018 (Philstar) [WEB].
+- **Social:** the national MMA brand URCC has ~227K Facebook followers [WEB]. KONVOY's own counts are [baseline needed].
+- **Our levers:** ~20 fights per card, so ~40 fighters can sell [PB]; card gyms + 20 nearby schools get posters [PB]; 120 Wave 1 partners and 145 Wave 1 invites [DIR].
+
+**Tickets, built bottom-up from channels.** Every per-unit rate is an assumption, not a benchmark.
+
+| Channel | Floor | Target | Stretch | Assumption |
+|---|---|---|---|---|
+| Fighter sellers (~40) | 200 | 320 | 480 | 5 / 8 / 12 tickets each |
+| Gyms (20 schools + ~5 card gyms = 25) | 150 | 250 | 400 | 6 / 10 / 16 each (group packs) |
+| Partners' group packs | 50 | 100 | 200 | 5 / 10 / 20 packs of 10 |
+| Online + walk-up (social, creators, past buyers) | 150 | 230 | 420 | Remainder; social is new |
+| **Total paid tickets [X]** | **550** | **900** | **1,500** | 37% / 60% / 100% of the 1,500-seat assumption |
+
+Comps (VIP invites, creators, press) come on top: VIP attendees 30 / 45 / 60 = ~20% / 30% / 40% of the 145 Wave 1 invites (assumption).
+
+| Target | Floor | Target | Stretch | Basis |
+|---|---|---|---|---|
+| Gym ticket sales [G] | 150 | 250 | 400 | Gym row above |
+| Partners signed [P] | 5 | 10 | 15 (≥3 cash) | ~4% / 8% / 12% of the 120 Wave 1 partners; most will be in-kind |
+| Net new followers [F], per main platform | +15% | +25% | +40% | Assumption over baseline. The CEO plan uses +10% above the normal monthly rate (Month 1) and +15–20% in event week [CEO]. If a platform has <1,000 followers, use +300 / +500 / +1,000 instead |
+| Shorts output | per caps | per caps | per caps | Ceilings, not goals [PB §10b] |
+
+*These are proposals, not commitments. Reset them on Day 1 once the follower log and last event's sales are in.*
+
 ---
 
 ## 2. Calendar mapping (decision needed)
 
 The playbook counts days back from the event: **Day 30 = event day**, Day 1 = 29 days earlier, Asia/Manila [PB kickoff]. With the event on 26 Nov, **Day 1 = 28 Oct and 3 Nov = Day 7**, so Days 1–6 have already passed. The playbook rule: *"If fewer days remain, the owner and leads rebase the calendar before launch. Do not compress rights, review or the two-week test."* [PB kickoff]
 
-**Proposed rebase (for Tuesday approval):** keep every cap, gate and phase order. Shorten the Build phase only.
+**Proposed rebase (for Tuesday approval):** keep every cap, gate and phase order. Shorten Build (10 → 7 days) and Hype (7 → 4 days); Prep, Launch and Fight week keep their length.
 
 | Phase (this plan) | Dates | Playbook phase | Shorts cap TikTok/YT per day [PB §10b] |
 |---|---|---|---|
 | Prep | Tue 3 – Wed 4 Nov | Days 1–2 (Prep) | 0 |
 | **Launch** (wk 1) | Thu 5 – Thu 12 Nov | Days 3–10 (Launch + 16-post pilot) | 2 |
 | **Build** (wk 2) | Fri 13 – Thu 19 Nov | Days 11–20 (Build), shortened from 10 days to 7 | 3 |
-| **Fight week** (wk 3–4) | Fri 20 – Mon 23 Nov | Days 21–27 (Hype) | 3–4 |
+| **Fight week** (wk 3–4) | Fri 20 – Mon 23 Nov | Days 21–27 (Hype), shortened from 7 days to 4 | 3–4 |
 | | Tue 24 – Thu 26 Nov | Days 28–30 (Fight week + event night) | 4 |
 | **Post-event** | Fri 27 Nov – Wed 2 Dec | Days +1–3, then +4–6 | caps as Days 11–20 |
 
@@ -115,12 +146,37 @@ The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, whi
 | 4 | Event-night partner/guest handling · door survey + gym-code sales count |
 | Post | Thank-yous (approved) · partner recap with code sales · Sheet update by owner only |
 
+#### What the 265 are (Wave 1)
+
+"Wave 1" = every Priority 1–2 record whose identity, role or contact route was confirmed from a dated public source ("scoped evidence refreshed" in `final-review.json`). **265 = 145 invites + 120 partners** (P1: 56 invites + 47 partners; P2: 89 + 73) [DIR].
+
+| Category | Wave 1 | P1 / P2 | What we ask | Send window (proposed) | Reply / confirm by |
+|---|---|---|---|---|---|
+| **Invites: Government & Civic** | 49 | 16 / 33 | VIP seat, ribbon/cage moment, LGU/barangay support | Formal letters wk 1 (5–9 Nov) | RSVP 20 Nov |
+| **Invites: Sports & Combat Sports** | 41 | 21 / 20 | VIP seat, cage-side, co-promote to their network | Wk 1 (5–9 Nov) | RSVP 20 Nov |
+| **Invites: Business & Industry** | 23 | 9 / 14 | VIP seat; warm lead for sponsorship | Wk 2 (10–16 Nov) | RSVP 20 Nov |
+| **Invites: Media (journalism, news, culture, ad/creative)** | 15 | 4 / 11 | Press pass, media day, coverage | Wk 2 (10–16 Nov) | Media day wk 3 |
+| **Invites: Creators & Entertainment** | 14 | 6 / 8 | 2 comps + fight-week post with own code (paid-partnership label) [PB §12] | Wk 2 (13–19 Nov) | Post by 25 Nov |
+| Invites: Community, Academia, Esports | 3 | 0 / 3 | VIP seat | Wk 2 | RSVP 20 Nov |
+| **Partners: Corporate Sponsor** | 38 | 14 / 24 | Cash or brand activation | Wk 1 (5–9 Nov) | Logos locked 16 Nov (print) |
+| **Partners: Community & Institutional** | 25 | 9 / 16 | Community partner, audience push | Wk 1–2 | 19 Nov |
+| **Partners: Sports ecosystem (incl. combat-sports)** | 19 | 10 / 9 | Gym QR posters, group packs, gym code | Wk 1 (6–9 Nov) | Posters up by 9 Nov |
+| **Partners: Local & In-Kind** | 17 | 7 / 10 | Product, F&B, services (e.g. Pocari: products, ≥14-day lead) | Wk 1 (by 12 Nov) | 16 Nov |
+| **Partners: Media, PR & press** | 12 | 5 / 7 | Media/amplification partner, ad space | Wk 1–2 | 16 Nov |
+| Partners: other (talent, production, esports, mobility, marketing) | 9 | 2 / 7 | Case by case | Wk 2 | 19 Nov |
+
+Top partner asks across the 120 (where the field is filled): media & audience amplification 48, in-kind & event operations 22, cash sponsorship 12, community partnership 11 [DIR, `final-partners.json` "Primary Partnership Goal"].
+
+**Wave 2 = 210 partial matches** (69 invites + 141 partners): their contact text matched but the record isn't confirmed. Qualify first (wk 2), send wk 3 only if confirmed; a late invite still works for media, creators and gyms, while sponsors after 16 Nov are in-kind or next event (EV5).
+
+*Send windows and deadlines are proposals working back from 26 Nov and the 16 Nov print lock. Approve them Tuesday (decision 4).*
+
 ### C. CEO / brand presence (light)
 
 - **70/30 rule:** Month 1 = 70% existing personal style / 30% KonvoyPH & MMA. Never 100% business [CEO Month 1].
 - **Weeks 1–2:** "Declaration": "something big is coming", plus behind-the-scenes Stories. **Weeks 3–4:** "The CEO's Eye" (60–90 s fighter breakdowns) [CEO Month 1].
 - **Fight week:** venue walkthrough, weigh-in on stage, CEO-led fighter interviews [CEO Month 3]. **Event night:** live reactions, raising the winner's hand, an unedited breakdown within 1 h; **EV5 announced in the cage** with an early-bird QR [CEO Month 3; PB §14].
-- Infrastructure: a content person 2–3 days/week, 5–10 raw phone clips/week [CEO Month 1]. CEO posts go through the same approval gate.
+- Infrastructure: a content person 2–3 days/week, 5–10 raw phone clips/week [CEO Month 1]. CEO posts go through the same package approval ([Marketing lead]); [Owner] signs off on his own voice.
 
 | Week | Deliverables |
 |---|---|
@@ -190,11 +246,11 @@ The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, whi
 
 ## 7. Decisions needed Tuesday 3 Nov (max 5)
 
-1. **Approve the calendar rebase** in §2 (first post Thu 5 Nov; Build shortened to 7 days; caps and gates unchanged).
+1. **Approve the calendar rebase** in §2 (first post Thu 5 Nov; Build 10 → 7 days, Hype 7 → 4 days; caps and gates unchanged).
 2. **Name the owners:** [Dev lead], [Video lead], [Marketing lead], [Backup approver], [Partnerships lead], [Legal contact].
-3. **Set the targets:** ticket goal [X], follower goal [F] per platform, gym-sales goal [G], partner sign-up goal. Share last event's sales curve.
+3. **Set the targets:** accept or change the proposals in §1 (900 paid tickets, 250 via gyms, 10 partners, +25% followers per main platform). Share last event's sales curve.
 4. **Approve the outreach scope:** Wave 1 = 265 P1–2 scoped-evidence records; the ask per segment; and whether to apply to Pocari before 12 Nov.
-5. **Budget and offer:** boost [B] or none, advance-price end date, pack prices, seller reward (leaderboard vs cash).
+5. **Budget, offer and platforms:** boost [B] or none, advance-price end date, pack prices, seller reward (leaderboard vs cash); is Facebook a main platform (decides Facebook caps)?
 
 ---
 
