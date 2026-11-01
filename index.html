@@ -8,6 +8,26 @@ body{margin:0;background:#0b0d10;padding:24px 16px;display:flex;flex-direction:c
 .slide section{width:1920px;height:1080px;box-sizing:border-box;position:relative}
 .slide h1,.slide h2,.slide h3,.slide p,.slide ol,.slide table{margin:0}
 .slide table{border-collapse:collapse;text-align:left} .slide tr+tr td{border-top:1px solid #8884}
+
+@media (max-width:767px){
+body{padding:16px 0;gap:16px}
+.frame{width:100%;aspect-ratio:auto;overflow:visible;box-shadow:none}
+.slide{position:static;transform:none!important;width:auto;height:auto}
+.slide section{width:auto!important;height:auto!important;padding:28px 16px!important;display:flex!important;flex-direction:column!important;gap:14px!important;justify-content:flex-start!important}
+.slide section *{position:static!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;max-width:100%}
+.slide section [style*="width:1664px"]{width:auto!important}
+.slide div[style*="display:flex"]{flex-wrap:wrap!important;gap:10px!important}
+.slide div[style*="display:flex"]>div{flex:1 1 140px!important;padding:14px!important}
+.slide div[style*="display:grid"]{grid-template-columns:1fr!important;gap:10px!important}
+.slide table{display:block;overflow-x:auto;width:100%!important;-webkit-overflow-scrolling:touch}
+.slide td,.slide th{padding:6px 8px!important;min-width:90px}
+.slide [style*="font-size:96px"]{font-size:34px!important}
+.slide [style*="font-size:72px"]{font-size:30px!important}
+.slide [style*="font-size:64px"]{font-size:26px!important}
+.slide [style*="font-size:32px"],.slide [style*="font-size:30px"]{font-size:18px!important}
+.slide [style*="font-size:28px"],.slide [style*="font-size:26px"],.slide [style*="font-size:24px"]{font-size:15px!important}
+.slide ol{padding-left:20px}
+}
 </style></head><body>
 <div class="frame"><div class="slide"><section id="goal" data-transition="fade" style="background:#14181D;color:#F3F1EC;font-family:'Public Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
 <p style="font-size:24px;font-weight:700;color:#FF5A6E;letter-spacing:3px">KONVOY · MASTER MARKETING PLAN · 3 NOV → 2 DEC 2026</p>
