@@ -1,26 +1,48 @@
 # KONVOY Master Marketing Plan — Nov 2026
 
-**Window:** Tue 3 Nov → Wed 2 Dec 2026 · **Event:** Thu 26 Nov 2026, NUSTAR, Mambaling, Cebu City · **Team intro:** Tue 3 Nov · **Status:** draft for owner review
+**Window:** Tue 3 Nov → Fri 4 Dec 2026 · **Event:** Sat 28 Nov 2026, NUSTAR, Mambaling, Cebu City · **Team intro:** Tue 3 Nov · **Status:** event date confirmed by Ivan; calendar and team actions updated 4 Nov; commercial targets/terms still pending approval
 
 **Sources** (every figure below cites one):
-- **[PB]** Fight Content Playbook v5.2, private artifact `claude.ai/artifact/T3BqkakyQdfPhSeqoHaKNG` (read 1 Nov 2026)
-- **[DIR]** `tmp/konvoy-resolution-20261029/REPORT.md` + `final-invites.json` / `final-partners.json` / `final-review.json` (Sheet snapshot, checked 29 Oct 2026). System of record: the Google Sheet tabs "15 Directory Review" and "19 Resolution Log" (read-only).
-- **[CEO]** `plans/ceo-branding-plan.md`
-- **[SOC]** `docs/all-social-channel-status.md`
+- **[PB]** Fight Content Playbook v5.2, owner-held playbook reference (read 1 Nov 2026)
+- **[DIR]** directory review and resolution snapshot (Sheet snapshot, checked 29 Oct 2026). System of record: the Google Sheet tabs "15 Directory Review" and "19 Resolution Log" (read-only).
+- **[CEO]** CEO branding plan
+- **[SOC]** social-channel status record
 - **[WEB]** Desk research, 1 Nov 2026: tribune.net.ph/2023/12/15/where-business-leisure-meet (NUSTAR ballroom capacity); gmanetwork.com Sofronio Vasquez Cebu concert tiers (Jan 2025) and A1 Waterfront Cebu tiers (Oct 2026); philstar.com/the-freeman 2020 "Cebu boxing 2020"; facebook.com/urccph (follower snapshot)
 
 **Hard rule:** nothing publishes, sends, or goes to a directory contact without owner approval. The release status is "Approved to Publish" in the Content Calendar [PB §8]. This plan contains no personal contact details: counts and organisation names only.
 
 ---
 
+
+## Immediate execution split — owner update, 4 November
+
+**Ivan leads development, marketing and content (video, short form and long form).** Team ownership below is the requested split; each team must name its delivery lead and backup. It does not claim individual capacity or accepted delivery dates.
+
+**Priority 0 — payment receiving QR on konvoy.ph ASAP.** Ivan confirms both GCash and HitPay accounts still need opening. Ivan's personal priority is to open the accounts, supply the providers' required documents, resolve verification requests and hand over the approved receiving QR/payment link and displayed merchant name. Provider activation time is unknown. Account applications and documents stay in the providers' secure channels; no IDs, bank evidence, login details or secret keys belong in this public plan.
+
+| Owner / team | Next actions | Handoff / done when | Timing |
+|---|---|---|---|
+| **Ivan** | Open GCash/HitPay accounts; submit the actual entity-specific requirements; respond to verification; confirm receiving merchant identity and approved method | Provider confirms the account/method can receive payments; approved QR/link and merchant display name handed to dev securely | **ASAP — first priority**; no invented provider approval date |
+| **Dev** | Prepare the existing payment screen now; reuse current order references, receipt upload and admin payment checks. Once an approved route is active, add its receiving QR and clear payment instructions; support same-phone use through the provider's supported link/save flow. Keep partner booking QR separate | Merchant identity and destination checked; mobile/desktop flow tested; amount/order reference clear; receipt upload cannot issue a paid ticket without verified funds; authorized release and independent live read-back recorded | Prepare **now**, publish the verified route **ASAP after Ivan's handoff**; do not wait for the full partner dashboard or both providers if one approved route is ready |
+| **Marketing** | Own the event fact sheet, prices/fees/payment wording, partner/creator offer consistency and NUSTAR coordination. Check buyer instructions with dev; prepare approved caller scripts and verified batches | Approved payment/booking CTA and support route; one consistent offer sheet; named outreach owner and NUSTAR counterpart; paid sales, comps, RSVPs and attendance reported separately | Payment copy **now**; review immediately on dev preview; wider ticket push depends on working checkout |
+| **Content — video, short and long form** | Re-date queued assets; produce the 16-short pilot, daily countdown and four planned long videos. Prepare gym/creator QR packs, press clips and Heidi's forwarding pack from approved facts | Countdown #2 on **26 Nov**, #1 on **27 Nov**; event **28 Nov**; rights/facts/package approved; every CTA tested against the current booking route | Prepare **now**; first-post plan **5 Nov**, subject to readiness; preview **25 Nov**; event clips **28 Nov** |
+| **Cross-team check — Ivan accountable** | Name team delivery leads/backups; dev shows payment status/blockers, marketing checks destination/offer, content checks dated CTAs | One short status: account verification / QR ready / checkout tested / release approved / live check passed | Daily until payment receiving works; immediate escalation of missing documents or failed checkout |
+
+**Sequence:** Ivan onboarding and dev preparation run in parallel → first approved receiving route → tested site payment flow → approved live release/read-back → wider approved ticket campaign. This plan update is not proof that a QR or account is live and does not replace the ticketing site's release controls.
+
+**Provider preparation:** use the actual applicant/entity requirements in the official portals. GCash for Business distinguishes Starter and Premium; Premium documents depend on entity. HitPay signup is separate from Philippines verification and QR Ph activation. A downloaded QR is not proof of a reconciled website payment flow. Sources: [GCash application](https://help.gcash.com/hc/en-us/articles/63489589168025-How-to-apply-for-GCash-for-Business), [GCash merchant requirements](https://help.gcash.com/hc/en-us/articles/48456974006041-What-are-the-requirements-to-create-a-GCash-for-Business-account-as-a-merchant), [GCash Digital QR](https://help.gcash.com/hc/en-us/articles/59390640942745-What-is-Digital-QR), [HitPay Philippines QR Ph](https://hitpayapp.com/ph/qr-ph). Confirm that the chosen QR/link supports the intended website use.
+
+**Other dependencies:** marketing coordinates approved press/VIP/partner outreach; the event operations owner must confirm capacity/comp pools, insurance, show production and sponsor/bonus rights. These decisions do not become dev or content commitments by default. Existing commercial terms and spend still need explicit approval.
+
+
 ## 1. Goal and targets
 
-**Goal:** sell out NUSTAR on 26 Nov by turning archive-fight attention into followers and ticket buyers, with gyms, partners and invitees doing the local selling.
+**Goal:** sell out NUSTAR on 28 Nov by turning archive-fight attention into followers and ticket buyers, with gyms, partners and invitees doing the local selling.
 
 | # | Target | Measure | Baseline | Goal | Source |
 |---|---|---|---|---|---|
 | 1 | Tickets sold | Online + box office + sellers' cash sales, tracked against last event's curve | [baseline needed]: last event's sales curve | [X] tickets, pace ≥ 0.9 at each review | [PB §1] |
-| 2 | Follower growth | Net new followers per platform | [baseline needed]: Day-1 follower log | [F] per platform by 26 Nov | [PB §1] |
+| 2 | Follower growth | Net new followers per platform | [baseline needed]: Day-1 follower log | [F] per platform by 28 Nov | [PB §1] |
 | 3 | Partner sign-ups | Partners confirmed (cash, in-kind, venue/media) | 0 confirmed. 21 shortlisted, none committed [DIR] | [baseline needed] | [DIR] |
 | 4 | Gym ticket sales | Sales via gym QR codes / `/[gym]` links | [baseline needed] | [G] tickets | [PB §12] |
 | 5 | CEO presence | KonvoyPH mentions per month; follower growth vs normal monthly rate | [baseline needed]: CEO account monthly rate | 8–10 mentions/month; +10% above normal rate | [CEO Month 1] |
@@ -61,22 +83,48 @@ Comps (VIP invites, creators, press) come on top: VIP attendees 30 / 45 / 60 = ~
 
 ## 2. Calendar mapping (decision needed)
 
-The playbook counts days back from the event: **Day 30 = event day**, Day 1 = 29 days earlier, Asia/Manila [PB kickoff]. With the event on 26 Nov, **Day 1 = 28 Oct and 3 Nov = Day 7**, so Days 1–6 have already passed. The playbook rule: *"If fewer days remain, the owner and leads rebase the calendar before launch. Do not compress rights, review or the two-week test."* [PB kickoff]
+The playbook counts days back from the event: **Day 30 = event day**, Day 1 = 29 days earlier, Asia/Manila [PB kickoff]. With the event on 28 Nov, **Day 1 = 30 Oct and 3 Nov = Day 5**, so Days 1–4 had already passed at the 3 Nov kickoff. The playbook rule: *"If fewer days remain, the owner and leads rebase the calendar before launch. Do not compress rights, review or the two-week test."* [PB kickoff]
 
-**Proposed rebase (for Tuesday approval):** keep every cap, gate and phase order. Shorten Build (10 → 7 days) and Hype (7 → 4 days); Prep, Launch and Fight week keep their length.
+**Rebased to Ivan's confirmed Saturday 28 November event date (4 Nov update):** keep the planned 5 Nov first post, 5–12 Nov pilot, 5–18 Nov YouTube test, caps and approval gates. Build runs 13–21 Nov (9 days), Hype 22–25 Nov (4 days), Fight week 26–28 Nov (3 days), and six post-event days 29 Nov–4 Dec. Asset readiness still controls publication.
 
 | Phase (this plan) | Dates | Playbook phase | Shorts cap TikTok/YT per day [PB §10b] |
 |---|---|---|---|
 | Prep | Tue 3 – Wed 4 Nov | Days 1–2 (Prep) | 0 |
 | **Launch** (wk 1) | Thu 5 – Thu 12 Nov | Days 3–10 (Launch + 16-post pilot) | 2 |
-| **Build** (wk 2) | Fri 13 – Thu 19 Nov | Days 11–20 (Build), shortened from 10 days to 7 | 3 |
-| **Fight week** (wk 3–4) | Fri 20 – Mon 23 Nov | Days 21–27 (Hype), shortened from 7 days to 4 | 3–4 |
-| | Tue 24 – Thu 26 Nov | Days 28–30 (Fight week + event night) | 4 |
-| **Post-event** | Fri 27 Nov – Wed 2 Dec | Days +1–3, then +4–6 | caps as Days 11–20 |
+| **Build** (wk 2) | Fri 13 – Sat 21 Nov | Days 11–20 (Build), shortened from 10 days to 9 | 3 |
+| **Hype** (wk 3–4) | Sun 22 – Wed 25 Nov | Days 21–27 (Hype), shortened from 7 days to 4 | 3–4 |
+| | Thu 26 – Sat 28 Nov | Days 28–30 (Fight week + event night) | 4 |
+| **Post-event** | Sun 29 Nov – Fri 4 Dec | Days +1–3, then +4–6 | caps as Days 11–20 |
 
 The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, which keeps the full 14 days [PB §10]. Days +4–6 are not in the playbook; this plan proposes Build-level caps for them, pending owner confirmation.
 
 ---
+
+
+### Dated countdown — 28 November anchor
+
+Use Asia/Manila calendar dates; D-0 is Saturday 28 November. The COUNTDOWN series ranks finishes; its #1 is reserved for the day before the event. Publish only approved packages, within existing account caps.
+
+| Publish date | Days to event | Content instruction |
+|---|---|---|
+| Fri 13 Nov | D-15 | Approved daily finish; use the correct days-to-event caption |
+| Sat 14 Nov | D-14 | Approved daily finish; use the correct days-to-event caption |
+| Sun 15 Nov | D-13 | Approved daily finish; use the correct days-to-event caption |
+| Mon 16 Nov | D-12 | Approved daily finish; use the correct days-to-event caption |
+| Tue 17 Nov | D-11 | Approved daily finish; use the correct days-to-event caption |
+| Wed 18 Nov | D-10 | Approved daily finish; use the correct days-to-event caption |
+| Thu 19 Nov | D-9 | Approved daily finish; use the correct days-to-event caption |
+| Fri 20 Nov | D-8 | Approved daily finish; use the correct days-to-event caption |
+| Sat 21 Nov | D-7 | Approved daily finish; use the correct days-to-event caption |
+| Sun 22 Nov | D-6 | Approved daily finish; use the correct days-to-event caption |
+| Mon 23 Nov | D-5 | Approved daily finish; use the correct days-to-event caption |
+| Tue 24 Nov | D-4 | Approved daily finish; use the correct days-to-event caption |
+| Wed 25 Nov | D-3 | Approved daily finish; use the correct days-to-event caption |
+| Thu 26 Nov | D-2 | COUNTDOWN #2; fight week |
+| Fri 27 Nov | D-1 | COUNTDOWN #1 — held best finish; tomorrow is fight night |
+| Sat 28 Nov | D-0 | Event-day assets and approved live clips; fight night today |
+
+Post-event recap/thank-you/EV5 CTAs start **29 November**; retain approval gates. Confirm actual weigh-in/media-day times with event operations rather than inferring them from this rebase.
 
 ## 3. Workstreams and RACI-lite
 
@@ -112,9 +160,9 @@ The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, whi
 |---|---|
 | 1 (3–9 Nov) | Launch inputs cleared (rights register, language, footage access, editor staffing, baseline) · fight index + tracker · 6 bridge finish clips + templates · **first post Thu 5 Nov: top-5 finish #1** · top-5 finish #2 Sat 7 Nov · pilot running at 2/day |
 | 2 (10–16 Nov) | Pilot ends 12 Nov · full fight 1 · Review 1 · COUNTDOWN starts 13 Nov at 3/day · INSIDE THE FINISH call 1 · full fight 2 |
-| 3 (17–23 Nov) | YouTube test closes 18 Nov · rivalry piece · Review 2/3 · media day · STARE DOWN + ROAD TO EV4 daily · preview 23 Nov · venue dry run |
-| 4 (24–26 Nov) | 4/day cap · COUNTDOWN #2 · weigh-in face-offs within 3 h · **COUNTDOWN #1 = held top-5 finish, 25 Nov** · event-night instant clips + Stories · YouTube go-live if prelims stream |
-| Post (27 Nov–2 Dec) | Days +1–3 finish queue · recap · CTAs switch to EV5 · post-mortem |
+| 3 (17–23 Nov) | YouTube test closes 18 Nov · rivalry piece · Review 2/3 · media day · STARE DOWN + ROAD TO EV4 daily · preview preparation (publish 25 Nov) · venue dry run |
+| 4 (24–28 Nov) | Hype 24–25 at 3–4/day; 26–28 at 4/day cap · COUNTDOWN #2 · weigh-in face-offs within 3 h · **COUNTDOWN #1 = held top-5 finish, 27 Nov** · event-night instant clips + Stories · YouTube go-live if prelims stream |
+| Post (29 Nov–4 Dec) | Days +1–3 finish queue · recap · CTAs switch to EV5 · post-mortem |
 
 ### B. Partner & invite outreach (from directory)
 
@@ -135,7 +183,7 @@ The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, whi
 2. **Wave 2:** P1–2 *partial matches* (210), after qualification.
 3. Unresolved (473 P1–2) stay on hold. A failed source check is not proof the record is invalid [DIR].
 4. **Gym posters with unique QR codes:** card fighters' gyms + 20 nearby martial-arts schools get QR posters, gym codes and 4-/10-ticket group packs, each with a `/[gym]` link [PB §12]. The directory holds **105 gym/martial-arts/fitness-type partner records (13 P1, 47 P2)** to choose from (keyword count on Lead Type/Sector/Segment in `final-partners.json`; verify each before use).
-5. **Dated asks:** Pocari's program is product/ex-deal (not cash) with ≥14 days' lead, so **12 Nov is the calculated minimum** for 26 Nov. Apply with a buffer, i.e. week 1 [DIR]. NUSTAR's Grand Ballroom form is for venue hire only [DIR].
+5. **Dated asks:** Pocari's program is product/ex-deal (not cash) with ≥14 days' lead, so **14 Nov is the calculated latest application date** for 28 Nov. Apply with a buffer, i.e. week 1 [DIR]. NUSTAR's Grand Ballroom form is for venue hire only [DIR].
 6. Channel rules: fighters, gyms, creators and press go by email, phone or messaging app, never platform DMs [PB §10b]. Every outbound message is owner-approved.
 
 | Week | Deliverables |
@@ -152,16 +200,16 @@ The two-week YouTube test (every approved Short on YouTube) runs 5–18 Nov, whi
 
 | Category | Wave 1 | P1 / P2 | What we ask | Send window (proposed) | Reply / confirm by |
 |---|---|---|---|---|---|
-| **Invites: Government & Civic** | 49 | 16 / 33 | VIP seat, ribbon/cage moment, LGU/barangay support | Formal letters wk 1 (5–9 Nov) | RSVP 20 Nov |
-| **Invites: Sports & Combat Sports** | 41 | 21 / 20 | VIP seat, cage-side, co-promote to their network | Wk 1 (5–9 Nov) | RSVP 20 Nov |
-| **Invites: Business & Industry** | 23 | 9 / 14 | VIP seat; warm lead for sponsorship | Wk 2 (10–16 Nov) | RSVP 20 Nov |
+| **Invites: Government & Civic** | 49 | 16 / 33 | VIP seat, ribbon/cage moment, LGU/barangay support | Formal letters wk 1 (5–9 Nov) | RSVP 22 Nov |
+| **Invites: Sports & Combat Sports** | 41 | 21 / 20 | VIP seat, cage-side, co-promote to their network | Wk 1 (5–9 Nov) | RSVP 22 Nov |
+| **Invites: Business & Industry** | 23 | 9 / 14 | VIP seat; warm lead for sponsorship | Wk 2 (10–16 Nov) | RSVP 22 Nov |
 | **Invites: Media (journalism, news, culture, ad/creative)** | 15 | 4 / 11 | Press pass, media day, coverage | Wk 2 (10–16 Nov) | Media day wk 3 |
-| **Invites: Creators & Entertainment** | 14 | 6 / 8 | 2 comps + fight-week post with own code (paid-partnership label) [PB §12] | Wk 2 (13–19 Nov) | Post by 25 Nov |
-| Invites: Community, Academia, Esports | 3 | 0 / 3 | VIP seat | Wk 2 | RSVP 20 Nov |
+| **Invites: Creators & Entertainment** | 14 | 6 / 8 | 2 comps + fight-week post with own code (paid-partnership label) [PB §12] | Wk 2 (13–21 Nov) | Post by 27 Nov |
+| Invites: Community, Academia, Esports | 3 | 0 / 3 | VIP seat | Wk 2 | RSVP 22 Nov |
 | **Partners: Corporate Sponsor** | 38 | 14 / 24 | Cash or brand activation | Wk 1 (5–9 Nov) | Logos locked 16 Nov (print) |
 | **Partners: Community & Institutional** | 25 | 9 / 16 | Community partner, audience push | Wk 1–2 | 19 Nov |
 | **Partners: Sports ecosystem (incl. combat-sports)** | 19 | 10 / 9 | Gym QR posters, group packs, gym code | Wk 1 (6–9 Nov) | Posters up by 9 Nov |
-| **Partners: Local & In-Kind** | 17 | 7 / 10 | Product, F&B, services (e.g. Pocari: products, ≥14-day lead) | Wk 1 (by 12 Nov) | 16 Nov |
+| **Partners: Local & In-Kind** | 17 | 7 / 10 | Product, F&B, services (e.g. Pocari: products, ≥14-day lead) | Wk 1 (by 14 Nov) | 16 Nov |
 | **Partners: Media, PR & press** | 12 | 5 / 7 | Media/amplification partner, ad space | Wk 1–2 | 16 Nov |
 | Partners: other (talent, production, esports, mobility, marketing) | 9 | 2 / 7 | Case by case | Wk 2 | 19 Nov |
 
@@ -169,7 +217,7 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 **Wave 2 = 210 partial matches** (69 invites + 141 partners): their contact text matched but the record isn't confirmed. Qualify first (wk 2), send wk 3 only if confirmed; a late invite still works for media, creators and gyms, while sponsors after 16 Nov are in-kind or next event (EV5).
 
-*Send windows and deadlines are proposals working back from 26 Nov and the 16 Nov print lock. Approve them Tuesday (decision 4).*
+*Send windows and deadlines are proposals working back from 28 Nov and the 16 Nov print lock. Approve them Tuesday (decision 4).*
 
 ### C. CEO / brand presence (light)
 
@@ -210,10 +258,10 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 | Week | Dates | Shorts / video | Outreach | CEO | Web / tracking | Gate / review |
 |---|---|---|---|---|---|---|
 | 1 Launch | 3–9 Nov | Prep 3–4 · first post Thu 5 · finish #2 Sat 7 · pilot 2/day | Asks approved · Wave 1 P1 · Pocari app · gym posters out | Declaration | Landing page, links, GA4 | **Tue 3: kickoff + decisions** · daily account check from 5 Nov |
-| 2 Build | 10–16 Nov | Full fight 1 · COUNTDOWN from 13 Nov · 3/day · full fight 2 | Wave 1 P2 · creators · invite list | CEO's Eye #1 | Pixels, consent, checkout test | Review 1 · **12 Nov Pocari minimum lead date** |
-| 3 Run-up | 17–23 Nov | Rivalry · media day · daily STARE DOWN/ROAD TO EV4 · preview 23 · 3–4/day | Wave 2 · media-day invites · RSVPs | CEO's Eye ×2 | Logistics info · checkout test | Review 2/3 · YouTube test closes 18 Nov · venue dry run |
-| 4 Fight week | 24–26 Nov | 4/day cap · weigh-ins · COUNTDOWN #1 on 25 · event night | Guest + partner handling | Fight-week schedule · cage | Event-day check | **26 Nov event** · approver on phone |
-| Post | 27 Nov–2 Dec | +1–3 finish queue · recap | Thank-yous | Thank-you · EV5 tease | Sales by source | Post-mortem |
+| 2 Build | 10–16 Nov | Full fight 1 · COUNTDOWN from 13 Nov · 3/day · full fight 2 | Wave 1 P2 · creators · invite list | CEO's Eye #1 | Pixels, consent, checkout test | Review 1 · **14 Nov Pocari latest application date** |
+| 3 Run-up | 17–23 Nov | Rivalry · media day · daily STARE DOWN/ROAD TO EV4 · preview preparation for 25 Nov · 3–4/day | Wave 2 · media-day invites · RSVPs | CEO's Eye ×2 | Logistics info · checkout test | Review 2/3 · YouTube test closes 18 Nov · venue dry run |
+| 4 Hype + fight week | 24–28 Nov | Hype 24–25 at 3–4/day · preview 25 Nov; 26–28 at 4/day cap · weigh-ins · COUNTDOWN #1 on 27 · event night | Guest + partner handling | Fight-week schedule · cage | Event-day check | **28 Nov event** · approver on phone |
+| Post | 29 Nov–4 Dec | +1–3 finish queue · recap | Thank-yous | Thank-you · EV5 tease | Sales by source | Post-mortem |
 
 ---
 
@@ -234,7 +282,7 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 | Risk / dependency | Impact | Mitigation | Owner |
 |---|---|---|---|
-| Calendar is 6 days behind the playbook (3 Nov = Day 7) | Compressed Build, missed prep | Approve the §2 rebase; don't compress rights, review or the YouTube test | [Owner] |
+| Late start against the 28 Nov playbook (3 Nov = Day 5) | Compressed Build, missed prep | Approve the §2 rebase; don't compress rights, review or the YouTube test | [Owner] |
 | Rights not confirmed in writing | Affected footage held; no event-night clips | Rights register on Day 1; hold anything unresolved [PB §15 #1] | [Marketing lead] + [Legal contact] |
 | Unresolved directory records: 50 P1 + 423 P2 (+424 lower) [DIR] | Wrong person or route, wasted asks | Outreach only from scoped-evidence records; qualify partials; owner confirms each ask | [Partnerships lead] |
 | Account safety: flags, action blocks, non-follower drop | Reach collapses near the event | Caps + daily check + 7-day protocol [PB §10b]; never re-upload a flagged edit | [Marketing lead] |
@@ -244,12 +292,12 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 ---
 
-## 7. Decisions needed Tuesday 3 Nov (max 5)
+## 7. Remaining decisions after the 4 Nov owner update
 
-1. **Approve the calendar rebase** in §2 (first post Thu 5 Nov; Build 10 → 7 days, Hype 7 → 4 days; caps and gates unchanged).
+1. **Apply the confirmed 28 Nov calendar** in §2 (first post Thu 5 Nov; Build 13–21 Nov, Hype 22–25 Nov, fight week 26–28 Nov; caps and gates unchanged).
 2. **Name the owners:** [Dev lead], [Video lead], [Marketing lead], [Backup approver], [Partnerships lead], [Legal contact].
 3. **Set the targets:** accept or change the proposals in §1 (900 paid tickets, 250 via gyms, 10 partners, +25% followers per main platform). Share last event's sales curve.
-4. **Approve the outreach scope:** Wave 1 = 265 P1–2 scoped-evidence records; the ask per segment; and whether to apply to Pocari before 12 Nov.
+4. **Approve the outreach scope:** Wave 1 = 265 P1–2 scoped-evidence records; the ask per segment; and whether to apply to Pocari before 14 Nov.
 5. **Budget, offer and platforms:** boost [B] or none, advance-price end date, pack prices, seller reward (leaderboard vs cash); is Facebook a main platform (decides Facebook caps)?
 
 ---
@@ -261,3 +309,4 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 - Which brand accounts post the shorts: KONVOY MMA on YouTube [SOC], plus which TikTok, Instagram and Facebook handles?
 - Is there a GA4 property / ticketing platform export today?
 - EV5 date for the in-cage announcement [PB §15 #10].
+
