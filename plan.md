@@ -1,6 +1,6 @@
 # KONVOY Master Marketing Plan — Nov 2026
 
-**Window:** Tue 3 Nov → Fri 4 Dec 2026 · **Event:** Sat 28 Nov 2026, NUSTAR, Mambaling, Cebu City · **Team intro:** Tue 3 Nov · **Status:** event date confirmed by Ivan; calendar and team actions updated 4 Nov; commercial targets/terms still pending approval
+**Window:** Tue 3 Nov → Fri 4 Dec 2026 · **Event:** Sat 28 Nov 2026, NUSTAR, Mambaling, Cebu City · **Team intro:** Tue 3 Nov · **Status:** event date confirmed by Ivan; calendar and team actions updated 4 Nov; §7 decisions settled by Ivan 6 Nov (targets accepted; prices/boost amount/commission rate still [TBD])
 
 **Sources** (every figure below cites one):
 - **[PB]** Fight Content Playbook v5.2, owner-held playbook reference (read 1 Nov 2026)
@@ -13,6 +13,8 @@
 
 ---
 
+
+> **Status 6 Nov 2026:** §7 decisions were taken 6 Nov, three days after the planned 3 Nov kickoff. Week-1 items past due and **not confirmed done** (dates kept, not re-dated): first post Thu 5 Nov (top-5 finish #1); the Wed 4 Nov prep list (rights in writing, follower baseline, fight index, editors named); ticket landing page by 6 Nov (blocked on the P0 payment route). Due next: top-5 finish #2 Sat 7 Nov; Wave 1 government/sports letters and gym posters by Mon 9 Nov; Pocari application before Sat 14 Nov.
 
 ## Immediate execution split — owner update, 4 November
 
@@ -41,15 +43,15 @@
 
 | # | Target | Measure | Baseline | Goal | Source |
 |---|---|---|---|---|---|
-| 1 | Tickets sold | Online + box office + sellers' cash sales, tracked against last event's curve | [baseline needed]: last event's sales curve | [X] tickets, pace ≥ 0.9 at each review | [PB §1] |
-| 2 | Follower growth | Net new followers per platform | [baseline needed]: Day-1 follower log | [F] per platform by 28 Nov | [PB §1] |
+| 1 | Tickets sold | Online + box office + sellers' cash sales, tracked against last event's curve | [baseline needed]: last event's sales curve | **900** paid tickets (accepted 6 Nov), pace ≥ 0.9 at each review | [PB §1] |
+| 2 | Follower growth | Net new followers per platform | [baseline needed]: Day-1 follower log | **+25%** per main platform by 28 Nov (accepted 6 Nov) | [PB §1] |
 | 3 | Partner sign-ups | Partners confirmed (cash, in-kind, venue/media) | 0 confirmed. 21 shortlisted, none committed [DIR] | [baseline needed] | [DIR] |
-| 4 | Gym ticket sales | Sales via gym QR codes / `/[gym]` links | [baseline needed] | [G] tickets | [PB §12] |
+| 4 | Gym ticket sales | Sales via gym QR codes / `/[gym]` links | [baseline needed] | **250** tickets (accepted 6 Nov) | [PB §12] |
 | 5 | CEO presence | KonvoyPH mentions per month; follower growth vs normal monthly rate | [baseline needed]: CEO account monthly rate | 8–10 mentions/month; +10% above normal rate | [CEO Month 1] |
 
 Pace = sold so far ÷ target curve. Below 0.9 at a review triggers the playbook levers within 48 h [PB §1].
 
-### Proposed targets: Cebu reality check (approve or change Tuesday)
+### Targets: Cebu reality check (accepted by Ivan 6 Nov; last event's sales curve still to come)
 
 **What we know** [WEB = desk research 1 Nov 2026]:
 - **Room:** NUSTAR Grand Ballroom seats 1,760 banquet / up to 3,290 theater (Daily Tribune, Dec 2023). A cage and production take floor space, so the fight-layout capacity is [confirm with NUSTAR]. Planning assumption: **1,500 seats**.
@@ -81,7 +83,7 @@ Comps (VIP invites, creators, press) come on top: VIP attendees 30 / 45 / 60 = ~
 
 ---
 
-## 2. Calendar mapping (decision needed)
+## 2. Calendar mapping (applied 6 Nov)
 
 The playbook counts days back from the event: **Day 30 = event day**, Day 1 = 29 days earlier, Asia/Manila [PB kickoff]. With the event on 28 Nov, **Day 1 = 30 Oct and 3 Nov = Day 5**, so Days 1–4 had already passed at the 3 Nov kickoff. The playbook rule: *"If fewer days remain, the owner and leads rebase the calendar before launch. Do not compress rights, review or the two-week test."* [PB kickoff]
 
@@ -146,7 +148,7 @@ Post-event recap/thank-you/EV5 CTAs start **29 November**; retain approval gates
 | TikTok | 2 | 3 | 3–4 | 4 | 2 h apart |
 | YouTube Shorts | 2 | 3 | 3–4 | 4 | 2 h apart; not within 1 h of a long-form upload |
 | Instagram Reels | 2 regular Reels + 1 Trial Reel a day, every phase | | | | 3 h apart |
-| Facebook Reels | 2 a day, only if Facebook is a main platform | | | | 3 h apart |
+| Facebook Reels | 2 a day (Facebook confirmed a main platform, 6 Nov) | | | | 3 h apart |
 
 - +1 static post a day per account on top; Stories, comment replies, live streams and long-form don't count [PB §10b].
 - Fight week: **at most 4 shorts a day per account**. On event night every approved finish goes to Stories; feed posts are ≥30 min apart within the Day 30 cap; extras join the Days +1–3 queue [PB §14, §15].
@@ -217,7 +219,7 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 **Wave 2 = 210 partial matches** (69 invites + 141 partners): their contact text matched but the record isn't confirmed. Qualify first (wk 2), send wk 3 only if confirmed; a late invite still works for media, creators and gyms, while sponsors after 16 Nov are in-kind or next event (EV5).
 
-*Send windows and deadlines are proposals working back from 28 Nov and the 16 Nov print lock. Approve them Tuesday (decision 4).*
+*Send windows and deadlines are proposals working back from 28 Nov and the 16 Nov print lock. Wave 1 scope approved 6 Nov (decision 4); each message still needs owner approval before sending.*
 
 ### C. CEO / brand presence (light)
 
@@ -269,10 +271,10 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 | Line | Amount | Owner |
 |---|---|---|
-| Paid boost [B], radius [R] km, cost cap [C] per follow/visit, or none [PB §12] | [TBD] | [Owner] |
+| Paid boost: **small test boost approved 6 Nov**; radius [R] km, cost cap [C] per follow/visit [PB §12] | [₱ TBD — test] | [Owner] |
 | QR posters + print for gyms | [TBD] | [Marketing lead] |
 | Creator comps (5–8 creators × 2 comps) [PB §12] | [TBD] | [Owner] |
-| Seller rewards / cash commission [PB §15 #9] | [TBD] | [Owner] |
+| Seller rewards: **leaderboard AND cash commission** (approved 6 Nov) [PB §15 #9] | Commission rate [TBD] | [Owner] |
 | Editor hours + event-night crew | [TBD] | [Owner] + [Video lead] |
 | Media day + door kit (survey QR, raffle) | [TBD] | [Marketing lead] |
 
@@ -292,19 +294,18 @@ Top partner asks across the 120 (where the field is filled): media & audience am
 
 ---
 
-## 7. Remaining decisions after the 4 Nov owner update
+## 7. Decisions — settled by Ivan, 6 Nov 2026
 
-1. **Apply the confirmed 28 Nov calendar** in §2 (first post Thu 5 Nov; Build 13–21 Nov, Hype 22–25 Nov, fight week 26–28 Nov; caps and gates unchanged).
-2. **Name the owners:** [Dev lead], [Video lead], [Marketing lead], [Backup approver], [Partnerships lead], [Legal contact].
-3. **Set the targets:** accept or change the proposals in §1 (900 paid tickets, 250 via gyms, 10 partners, +25% followers per main platform). Share last event's sales curve.
-4. **Approve the outreach scope:** Wave 1 = 265 P1–2 scoped-evidence records; the ask per segment; and whether to apply to Pocari before 14 Nov.
-5. **Budget, offer and platforms:** boost [B] or none, advance-price end date, pack prices, seller reward (leaderboard vs cash); is Facebook a main platform (decides Facebook caps)?
+1. ✅ **Calendar: APPLIED** — confirmed 28 Nov calendar in §2 (first post Thu 5 Nov; Build 13–21 Nov, Hype 22–25 Nov, fight week 26–28 Nov; caps and gates unchanged).
+2. ✅ **Owners: placeholders KEPT** — each team names its own lead and backup ([Dev lead], [Video lead], [Marketing lead], [Backup approver], [Partnerships lead], [Legal contact]).
+3. ✅ **Targets: ACCEPTED** — 900 paid tickets, 250 via gyms, 10 partners, +25% followers per main platform. Last event's sales curve still to come.
+4. ✅ **Outreach: APPROVED** — Wave 1 = 265 P1–2 scoped-evidence records as proposed; **apply to Pocari before 14 Nov**. Every message still owner-approved before sending.
+5. ✅ **Budget/offer/platforms:** small test boost [₱ TBD — test]; seller reward = leaderboard **and** cash commission (rate [TBD]); Facebook **is** a main platform, so Facebook caps apply. Still [TBD]: advance-price end date, pack prices.
 
 ---
 
 ## Open questions for Ivan
 
-- Is Facebook a main platform for our fans? This decides whether the Facebook caps apply [PB §15 #2].
 - Rights: do contracts cover social and YouTube use and live clips on event night? [PB §15 #1]
 - Which brand accounts post the shorts: KONVOY MMA on YouTube [SOC], plus which TikTok, Instagram and Facebook handles?
 - Is there a GA4 property / ticketing platform export today?
